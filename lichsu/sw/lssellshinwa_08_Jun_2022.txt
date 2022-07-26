@@ -1,0 +1,10 @@
+Name : namdangiu bán đồ vào Shinwa   || Time : 2022-06-08 01:17:28 || Giá bán :5000000 || Vật phẩm bán :655 || Số lượng vật phẩm bán : 1
+Name : tapchoidao bán đồ vào Shinwa   || Time : 2022-06-08 02:09:00 || Giá bán :50000 || Vật phẩm bán :947 || Số lượng vật phẩm bán : 29520
+Name : tapchoidao bán đồ vào Shinwa   || Time : 2022-06-08 02:09:10 || Giá bán :500000 || Vật phẩm bán :948 || Số lượng vật phẩm bán : 30000
+Name : 1dapvetruong bán đồ vào Shinwa   || Time : 2022-06-08 02:09:51 || Giá bán :500000 || Vật phẩm bán :276 || Số lượng vật phẩm bán : 930
+Name : 1dapvetruong bán đồ vào Shinwa   || Time : 2022-06-08 02:10:01 || Giá bán :5000000 || Vật phẩm bán :275 || Số lượng vật phẩm bán : 925
+Name : 1dapvetruong bán đồ vào Shinwa   || Time : 2022-06-08 02:10:11 || Giá bán :50000 || Vật phẩm bán :551 || Số lượng vật phẩm bán : 1910
+Name : 1dapvetruong bán đồ vào Shinwa   || Time : 2022-06-08 02:10:23 || Giá bán :50000 || Vật phẩm bán :277 || Số lượng vật phẩm bán : 893
+Name : 1dapvetruong bán đồ vào Shinwa   || Time : 2022-06-08 02:10:31 || Giá bán :50000 || Vật phẩm bán :278 || Số lượng vật phẩm bán : 894
+Name : trumsever bán đồ vào Shinwa   || Time : 2022-06-08 21:12:07 || Giá bán :120000 || Vật phẩm bán :524 || Số lượng vật phẩm bán : 1
+Name : hhhhh123 bán đồ vào Shinwa   || Time : 2022-06-08 22:07:57 || Giá bán :1000 || Vật phẩm bán :331 || Số lượng vật phẩm bán : 1

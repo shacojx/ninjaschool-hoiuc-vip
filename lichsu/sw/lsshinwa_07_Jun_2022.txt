@@ -1,0 +1,12 @@
+Name : datngu Mua đồ shinwa  || Time : 2022-06-07 12:20:18 || Giá mua :100000000|| Item mua :797 || Số lượng mua :1 
+Name : 1dapvetruong Mua đồ shinwa  || Time : 2022-06-07 13:27:16 || Giá mua :10000000|| Item mua :947 || Số lượng mua :22424 
+Name : 1dapvetruong Mua đồ shinwa  || Time : 2022-06-07 13:27:24 || Giá mua :10000000|| Item mua :948 || Số lượng mua :30000 
+Name : 1dapvetruong Mua đồ shinwa  || Time : 2022-06-07 13:29:10 || Giá mua :1000000|| Item mua :947 || Số lượng mua :29884 
+Name : 1dapvetruong Mua đồ shinwa  || Time : 2022-06-07 13:29:18 || Giá mua :1000000|| Item mua :948 || Số lượng mua :28963 
+Name : nobita Mua đồ shinwa  || Time : 2022-06-07 17:00:31 || Giá mua :1000000|| Item mua :653 || Số lượng mua :1 
+Name : nobita Mua đồ shinwa  || Time : 2022-06-07 17:00:37 || Giá mua :1000000|| Item mua :652 || Số lượng mua :1 
+Name : nobita Mua đồ shinwa  || Time : 2022-06-07 17:00:42 || Giá mua :1000000|| Item mua :652 || Số lượng mua :1 
+Name : nobita Mua đồ shinwa  || Time : 2022-06-07 17:00:48 || Giá mua :1000000|| Item mua :652 || Số lượng mua :1 
+Name : nobita Mua đồ shinwa  || Time : 2022-06-07 17:00:55 || Giá mua :1000000|| Item mua :654 || Số lượng mua :1 
+Name : nobita Mua đồ shinwa  || Time : 2022-06-07 17:01:22 || Giá mua :1000000|| Item mua :652 || Số lượng mua :1 
+Name : nobita Mua đồ shinwa  || Time : 2022-06-07 17:05:13 || Giá mua :1000000|| Item mua :948 || Số lượng mua :52072 

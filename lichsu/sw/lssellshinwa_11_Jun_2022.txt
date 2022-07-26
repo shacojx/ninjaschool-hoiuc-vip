@@ -1,0 +1,11 @@
+Name : bumbum bán đồ vào Shinwa   || Time : 2022-06-11 01:07:39 || Giá bán :432000 || Vật phẩm bán :945 || Số lượng vật phẩm bán : 432
+Name : bumbum bán đồ vào Shinwa   || Time : 2022-06-11 01:07:55 || Giá bán :427000 || Vật phẩm bán :950 || Số lượng vật phẩm bán : 427
+Name : bumbum bán đồ vào Shinwa   || Time : 2022-06-11 01:08:07 || Giá bán :425000 || Vật phẩm bán :946 || Số lượng vật phẩm bán : 425
+Name : bumbum bán đồ vào Shinwa   || Time : 2022-06-11 01:10:26 || Giá bán :50000 || Vật phẩm bán :335 || Số lượng vật phẩm bán : 1
+Name : c1botxusv1 bán đồ vào Shinwa   || Time : 2022-06-11 06:52:20 || Giá bán :250000 || Vật phẩm bán :9 || Số lượng vật phẩm bán : 1
+Name : c1botxusv1 bán đồ vào Shinwa   || Time : 2022-06-11 07:40:40 || Giá bán :800000 || Vật phẩm bán :379 || Số lượng vật phẩm bán : 1
+Name : c1botxusv1 bán đồ vào Shinwa   || Time : 2022-06-11 07:40:51 || Giá bán :500000 || Vật phẩm bán :378 || Số lượng vật phẩm bán : 1
+Name : admin98 bán đồ vào Shinwa   || Time : 2022-06-11 07:48:22 || Giá bán :2000000 || Vật phẩm bán :367 || Số lượng vật phẩm bán : 1
+Name : nsohoiuc bán đồ vào Shinwa   || Time : 2022-06-11 08:07:03 || Giá bán :900000 || Vật phẩm bán :539 || Số lượng vật phẩm bán : 1
+Name : admin98 bán đồ vào Shinwa   || Time : 2022-06-11 08:52:26 || Giá bán :100000000 || Vật phẩm bán :828 || Số lượng vật phẩm bán : 1
+Name : c1botxusv1 bán đồ vào Shinwa   || Time : 2022-06-11 08:52:41 || Giá bán :5000000 || Vật phẩm bán :547 || Số lượng vật phẩm bán : 1

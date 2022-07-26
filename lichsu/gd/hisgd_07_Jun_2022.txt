@@ -1,0 +1,34 @@
+Name : nguvlluon giao dịch với nientoidaywat || Time : 2022-06-07 01:15:33 || Item chuyển : [948 Số lượng : 30000;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : nientoidaywat giao dịch với nguvlluon || Time : 2022-06-07 01:15:33 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[948 Số lượng : 30000;] Xu nhận :0
+Name : nientoidaywat giao dịch với nguvlluon || Time : 2022-06-07 01:20:30 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 947 Số lượng : 30000; ] Xu nhận :0
+Name : nguvlluon giao dịch với nientoidaywat || Time : 2022-06-07 01:20:30 || Item chuyển : [ 947 Số lượng : 30000; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : caube1 giao dịch với bebann || Time : 2022-06-07 04:25:28 || Item chuyển : [647 Số lượng : 2000;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : bebann giao dịch với caube1 || Time : 2022-06-07 04:25:28 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[647 Số lượng : 2000;] Xu nhận :0
+Name : jakiwa giao dịch với family1st || Time : 2022-06-07 04:44:57 || Item chuyển : [647 Số lượng : 2000;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : family1st giao dịch với jakiwa || Time : 2022-06-07 04:44:57 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[647 Số lượng : 2000;] Xu nhận :0
+Name : o0light0o giao dịch với tokuda9x || Time : 2022-06-07 04:54:13 || Item chuyển : [647 Số lượng : 2003;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : tokuda9x giao dịch với o0light0o || Time : 2022-06-07 04:54:13 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[647 Số lượng : 2003;] Xu nhận :0
+Name : tokuda9x giao dịch với caube1 || Time : 2022-06-07 05:01:53 || Item chuyển : [797 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : caube1 giao dịch với tokuda9x || Time : 2022-06-07 05:01:53 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[797 Số lượng : 1;] Xu nhận :0
+Name : emnhicute giao dịch với bebann || Time : 2022-06-07 05:15:28 || Item chuyển : [] Xu giao dịch :1000000000 || Item Nhận :[] Xu nhận :0
+Name : bebann giao dịch với emnhicute || Time : 2022-06-07 05:15:28 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :1000000000
+Name : sepvu1x giao dịch với sephaisexx || Time : 2022-06-07 05:50:11 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 443 Số lượng : 1; ] Xu nhận :0
+Name : sephaisexx giao dịch với sepvu1x || Time : 2022-06-07 05:50:11 || Item chuyển : [ 443 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : akiclone giao dịch với trum49 || Time : 2022-06-07 14:57:31 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 655 Số lượng : 1; ] Xu nhận :0
+Name : trum49 giao dịch với akiclone || Time : 2022-06-07 14:57:31 || Item chuyển : [ 655 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : 1dapvetruong giao dịch với ehshsbsh || Time : 2022-06-07 15:02:36 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 948 Số lượng : 30000;  947 Số lượng : 30000; ] Xu nhận :0
+Name : ehshsbsh giao dịch với 1dapvetruong || Time : 2022-06-07 15:02:36 || Item chuyển : [ 948 Số lượng : 30000;  947 Số lượng : 30000; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : trum49 giao dịch với akiclone || Time : 2022-06-07 15:41:38 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 655 Số lượng : 1;  652 Số lượng : 1;  653 Số lượng : 1;  652 Số lượng : 1; ] Xu nhận :0
+Name : akiclone giao dịch với trum49 || Time : 2022-06-07 15:41:38 || Item chuyển : [ 655 Số lượng : 1;  652 Số lượng : 1;  653 Số lượng : 1;  652 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : yakira giao dịch với yakura || Time : 2022-06-07 15:54:04 || Item chuyển : [733 Số lượng : 10000;735 Số lượng : 10000;734 Số lượng : 10000;736 Số lượng : 10000;] Xu giao dịch :0 || Item Nhận :[ 760 Số lượng : 10000;  761 Số lượng : 10000;  762 Số lượng : 10000;  763 Số lượng : 10000; ] Xu nhận :0
+Name : yakura giao dịch với yakira || Time : 2022-06-07 15:54:04 || Item chuyển : [ 760 Số lượng : 10000;  761 Số lượng : 10000;  762 Số lượng : 10000;  763 Số lượng : 10000; ] Xu giao dịch :0 || Item Nhận :[733 Số lượng : 10000;735 Số lượng : 10000;734 Số lượng : 10000;736 Số lượng : 10000;] Xu nhận :0
+Name : yakira giao dịch với yakura || Time : 2022-06-07 15:54:54 || Item chuyển : [737 Số lượng : 10000;738 Số lượng : 10000;739 Số lượng : 10000;740 Số lượng : 10000;741 Số lượng : 10000;] Xu giao dịch :0 || Item Nhận :[ 764 Số lượng : 10000;  765 Số lượng : 10000;  766 Số lượng : 10000;  767 Số lượng : 10000;  768 Số lượng : 10000; ] Xu nhận :0
+Name : yakura giao dịch với yakira || Time : 2022-06-07 15:54:54 || Item chuyển : [ 764 Số lượng : 10000;  765 Số lượng : 10000;  766 Số lượng : 10000;  767 Số lượng : 10000;  768 Số lượng : 10000; ] Xu giao dịch :0 || Item Nhận :[737 Số lượng : 10000;738 Số lượng : 10000;739 Số lượng : 10000;740 Số lượng : 10000;741 Số lượng : 10000;] Xu nhận :0
+Name : akiclone giao dịch với trum49 || Time : 2022-06-07 16:24:18 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 947 Số lượng : 15849;  654 Số lượng : 1; ] Xu nhận :0
+Name : trum49 giao dịch với akiclone || Time : 2022-06-07 16:24:18 || Item chuyển : [ 947 Số lượng : 15849;  654 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : trum49 giao dịch với ehshsbsh || Time : 2022-06-07 16:31:22 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 583 Số lượng : 1; ] Xu nhận :0
+Name : ehshsbsh giao dịch với trum49 || Time : 2022-06-07 16:31:22 || Item chuyển : [ 583 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : l3bigbossl3 giao dịch với 1dapvetruong || Time : 2022-06-07 17:51:40 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 275 Số lượng : 50;  277 Số lượng : 50;  278 Số lượng : 50;  276 Số lượng : 50; ] Xu nhận :0
+Name : 1dapvetruong giao dịch với l3bigbossl3 || Time : 2022-06-07 17:51:40 || Item chuyển : [ 275 Số lượng : 50;  277 Số lượng : 50;  278 Số lượng : 50;  276 Số lượng : 50; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : nobita giao dịch với l3bigbossl3 || Time : 2022-06-07 18:14:12 || Item chuyển : [655 Số lượng : 1;655 Số lượng : 1;655 Số lượng : 1;655 Số lượng : 1;655 Số lượng : 1;655 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : l3bigbossl3 giao dịch với nobita || Time : 2022-06-07 18:14:12 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[655 Số lượng : 1;655 Số lượng : 1;655 Số lượng : 1;655 Số lượng : 1;655 Số lượng : 1;655 Số lượng : 1;] Xu nhận :0

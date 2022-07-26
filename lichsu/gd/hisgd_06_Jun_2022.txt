@@ -1,0 +1,6 @@
+Name : akiclone giao dịch với trum49 || Time : 2022-06-06 15:53:17 || Item chuyển : [283 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : trum49 giao dịch với akiclone || Time : 2022-06-06 15:53:17 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[283 Số lượng : 1;] Xu nhận :0
+Name : 1dapvelang giao dịch với adminbinh || Time : 2022-06-06 17:01:46 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :1000000000
+Name : adminbinh giao dịch với 1dapvelang || Time : 2022-06-06 17:01:46 || Item chuyển : [] Xu giao dịch :1000000000 || Item Nhận :[] Xu nhận :0
+Name : slawisme giao dịch với bebann || Time : 2022-06-06 19:26:42 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 9; ] Xu nhận :0
+Name : bebann giao dịch với slawisme || Time : 2022-06-06 19:26:42 || Item chuyển : [ 454 Số lượng : 9; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
